@@ -1,0 +1,57 @@
+                  Human  tttaag|gactcct-gaa--tatttttcaaaactgaacaatttcagccatgtc---tgagctttccg---tcttcctgg-aggcacaaatctagttt-agctg-aaccacaacagatt|gtacat
+                  Chimp  tttaag|gactcct-gaa--tatttttcaaaactgaacaatttcagccatgtc---tgagctttctg---tcttcctgg-aggcacaaatctagttt-agctg-aaccgcaacagatt|gtacat
+                Gorilla  tttaag|gactcct-gaa--tatttttcaaaactgagtaatttcagccatgtc---taagctttctg---tcttcctgg-aggcacaaatctagttt-agctg-aaccacaacagatt|gtacat
+              Orangutan  tttaag|gactcct-gaa--tatttttcaaaactgaacaatttcagccatgtc---taagctttctg---tcttcctgg-aggcacaaatctagtta-agctg-aaccacaacagatt|gtacat
+                 Gibbon  tttaag|gactcct-gaa--tatttttcagaactgaacaatttcagccatgtc---taagctttctg---tcttcccgg-aggcacaaatctagttt-agctg-aaccacaacagatt|gtacat
+                 Rhesus  tttaag|gactcct-gaa--tatttttcaaaactgaacaatttcagccatgtc---taagctttctg---tcttcctgg-aggcacaaatctagttt-agctg-agccacaacagatt|gtacat
+    Crab-eating macaque  tttaag|gactcct-gaa--tatttttcaaaactgaacaatttcagccatgtc---taagctttctg---tcttcctgg-aggcacaaatctagttt-agctg-agccacaacagatt|gtacat
+                 Baboon  tttaag|gactcct-gaa--tgtttttcaaaactgaacaattgcagccatgtc---taagctttctg---tcttcctgg-aggcacaaatctagttt-agctg-agccacaacagatt|gtacat
+           Green monkey  tttaag|gactcct-gaa--tatttttcaaaactgaacaatttcagccatgtc---taagctttctg---tcttcctgg-agacacaaatctagttt-agctg-agccacaacagatt|gtacat
+               Marmoset  tttaag|ggctcct-gaa--actttttcaaaactgaacaatttcagccatgtc---taagctttctg---tcttcttgg-aggcacaaatccagttt-agctg-agccacaacagatt|gtacat
+        Squirrel monkey  -ttaag|gactcct-gaa--actttttcaaaactgaacaatttcagccatgtc---taagctttctg---tcttcttgg-aggcacaaatccagttt-agctg-agccacaacagatt|gtacat
+               Bushbaby  ttgaag|gactcct-gaa--tatgtgtcaaaactgaacagtttcagccatgct---gaagcattctg---tcttcctgg-aggcacaaatccaacct-aactg-agctgcaacagatg|gcatgt
+     Chinese tree shrew  tttaag|aactcct-gaa--taccttttaaaatggaaccatttcggc---------taggcattctg---tcttactgt-aggcactggtccagttt-agctg-agctacaacagatt|gtacct
+               Squirrel  tttaaa|gactcct-gaa--tatacctca-aactgaacaatttcagccaagcc---gaagcattctg---tgttcacag-aggcaccagtccagttt-aggtg-agtcacaacagatt|----gt
+           Prairie vole  tggaag|gactcct-gga--tatatttcaaaactgaacaatttcaactgacct---gaagcactctg---ccttcctag-tggtacc-----agttt-cggag-tgccacagcagatt|gtaagt
+        Chinese hamster  ttcaag|gactcct-gaa--tatattccaaaaccgaacaatttcaactgagct---gaagtactctg---ccttcctag-agataccagtcaagttt-aggag-agccagagcagatc|gtaagt
+         Golden hamster  ttgaag|gactcct-gaa--tatattccaaaactgaacaatttcaactgagct---gaagtactctg---tttttctag-aggtaccagttcagttt-aggag-agtcacagcagatc|gtaagt
+                  Mouse  ttaaag|gactcct-gag--tatatttcagaactgaaccatttcaaccgagct---gaagcattctg---ccttcctag-tggtaccagtccaattt-aggag-agcca-agcagact|gtgagt
+                    Rat  ttaaag|gactcct-gaa--tatatttcaaaactgaaccatttcaacccaact---gaagtattctg---ccttcttag-cggtaccagtccggttt-aggag-agcca-agccgact|gtaagt
+         Naked mole-rat  ttgaag|ggcgccg-gaa--tatatttcaaaactgagtgatttcagccaagtc---aaagcattctg---tcttcccag-aggcaccaggagaggtc-aggtg-agtcacaacagacc|gtgca-
+             Guinea pig  ttgaag|gacgcct-gagtatatatttcaaaactgaacaatttgagccaaccc---aaaggattctg---tcttcctag-aggcacgagtcaaggcc-aggtg-agttacaacagatt|gtgtgc
+             Chinchilla  ttgaag|gacgcct-gaa---atatttgaaaactgaacgatttaggccaagcc---aaagcattctg---tcttcccag-aggcactggtcaaagcc-aggtg-agtcacaacagatt|gtgtgc
+       Brush-tailed rat  ttgaag|gacgcct-gaa--tatattccaaaactgaacgatttgggcagagcc---gaagcattctg---tcttcccag-aggccccaggcgaggcc-aggtg-agtcacagcagatt|gtgtgt
+                 Rabbit  ttcaag|gactccc-ag------ctctggaaactgagcattttcagtccagcc---gaagcaccgtg---tctccc-ag-aggccccagtccagtgt-agccc-agccacaacagatt|gtacgt
+                   Pika  tttcaa|gactcct-gaa--tgtatttggaagc--aacgttttcagcctagcc---------ttgcg---tctt---------ccccaatccagtgt-agctc-aactatagcagatt|----gt
+                    Pig  tctaag|gac-cct-gaa--tatatttgaaaactgaacagtttcagctaagcc---gaagcattctg---tcttcccca-gaacacaaatccagcct-cgctg-agccattacagat-|gtacat
+                 Alpaca  cctaag|gactcct-gaa--tatatctgaaaactgaacaatttcagccaagcc---gaatccttctg---tcttccctg-gggcacgaacccaactt-agctg-agccacagcagat-|gtacgt
+         Bactrian camel  tctaag|gactcct-gaa--tatatctgaatactgaacaatatcagccaagcc---aaatccttctg---tcttccctg-gggcacgaacccaactt-agctg-agccacagcagat-|gtacgt
+                Dolphin  tttagg|gactcct-gaa--tatatttgaaaactgaacagtttcagccaagcc---gaagcattctg---tcttcccag-ggacacaaatccaactt-agctg-agccaaagcagat-|gtacgt
+           Killer whale  tttagg|gactcct-gaa--tatatttgaaaactgaacagtttcagccaagcc---gaagcattctg---tcttcccag-ggacacaaatccaactt-agctg-agccaaagcagat-|gtacgt
+       Tibetan antelope  tttaag|gacttct-gaa--tatatttgaaaactgaacagtttcaaccaagcc---gaagca-tctg---tcttcccag-agacacaaatccaacttgagctg-aatcacagcagat-|gtaggt
+                    Cow  tttaag|gacttct-gaa--tatatttgaaaactgaacagtttcaaccaagcc---gaagca-tctg---tcttcccag-agacacaaatccaacttgagctg-aatcacagcagat-|gtaggt
+                  Sheep  tttaag|gacttct-gaa--tatatttgaaaactgaacagtttcaaccaagct---gaagca-tctg---tcttcccag-agacacagatccaacttgagctg-aatcacagcagat-|gtaggt
+          Domestic goat  tttaag|gacttct-gaa--tatatttgaaaactgaacagtttcaaccaagcc---gaagca-tctg---tcttcccag-agacacagatccaacttgagctg-aatcacagcagat-|gtaggt
+                  Horse  ttcaag|gcctcct-gaa--tatatttgaaaactgagcagtttcagccaagcc---gaagcattctg---tcttcccag-aga--caaatccagctt-agctg-agccac-acagat-|gtacgt
+       White rhinoceros  tttaag|gactcct-gaa--tatatttgaaaactgaacagtttcacccaggcc---caagcattctg---tcttcccag-agacgcaaatccagctt-agctg-agccacaacagat-|gtacgt
+                    Cat  tttaag|gactccc-gaa--tatatttgaaaactgaataactttagccaagcc---gaagcagccgg---tcttctcgg-aggcacaatcccagctc-agctg-agccacgacagac-|gtatgt
+                    Dog  tttaag|gattcct-gaa--tatatttgaaaactgaataatttcagccacgcc---gaagcagtctg---tcttctcag-agacagaaatccagctc-agctg-agccacgacagat-|gtatgt
+                 Ferret  tttaag|gattcct-gag--tatatttggaaacagagctgtttcagccacacc---gaagcagtctg---tcttctcag-agacacaactccagctc-agcgg-agccacgacagat-|gtacgt
+                  Panda  tttaag|gattcct-ggt--tatattagaaaactgagt-atttcagccacgcc---gaagcagtctg---tcttctcag-agacacgg-tccagctc-agctg-agccacaacagat-|gtatgt
+         Pacific walrus  tttaag|gattcct-gag--tatagtcgaaaactgagtcatttcagccacgcc---gaggcattttg---tcttctcag-agacacaactccagctc-agctg-aaccacgacagat-|gtatgt
+           Weddell seal  tttaag|gattcct-gag--tatattcgaaaactgagccatttccaccacgcc---gaggcattttg---tcttctcag-agacacaactccagctc-agctg-aaccacgacagat-|gtatgt
+       Black flying-fox  ttcaag|gactcct-gca--tatatttgaaaactgaacaatttcagccaagct---gaagca--ttg---tcttcccgg-aggcacgaatccagctt-agctg-agccacaacagat-|gtaggt
+                Megabat  ttcaag|gactcct-gca--tatatttgaaaactgaacaatttcatccaagct---gaagca--ttg---tcttcccgg-aggcacgaatccagctt-agctg-agccacaacagat-|gtaggt
+   David's myotis (bat)  tttaag|gtctcct-gaa--tatatttgaaaactgaacaatttcagccaagccgaagaagcg--ttg---tcttcctgg-aggcacagatccaattt-agctg-agccacaacagat-|gtacgt
+       Little brown bat  tttaag|gtctcct-gaa--tatatttgaaaactgaacagttttagccaagccgaagaagcg--ttg---tcttcctgg-aggcacagatccaactt-agctg-agccacaacagat-|gtaagt
+          Big brown bat  tttaag|gtctcct-gaa--tatatttgaaaactgaacaatctcagccaagccgaagaagca--ttg---tcttcctgg-aggcacagatccaactt-agctg-agccacaacagat-|gtacgt
+               Hedgehog  -ttaag|gacttct-gga--tatatttggacaccgaacagtttcagtcaagcc---aaagcat----------tcccag-aggcacaaatccagctc-agctg-agtcacaacagaa-|gtacgt
+                  Shrew  gttaag|aactcct-gaa--taaatttgaaagcaaagccgtttccgccaagcc---aaagcat-ctc---tctctcccg-gggcacaaagccagctt-agctg-agccaccaccgac-|gtaagt
+        Star-nosed mole  tttaag|ggtt--t-gaa--tatattgggaaacaa--caatttccacaaagcc---gaatcat--tc---tcttcctgg-aggcacaaatccagctt-agctg-aaccacaacagat-|gtacgt
+               Elephant  ttcaag|gactcct-gaa--tatattttgaaactgaacagtttcagcccagcc---aaagcattctgtcttcttcctgg-aggcacagatccagctt-ctctg-agccacaacagatt|gtacgt
+    Cape elephant shrew  ttcaag|gcctcct-gaa--taaatttcaaatccggaccgtttc--ccaggcc---aaagcaatctg---tcttcctgg-tggcaggaatccagctt-cgcgg-agccgcggcagatc|gtacgt
+                Manatee  ttcaag|gactcct-gaa--tatattttgaaactaaaccgtttcagccaagcc---gaagcattctg---tcttcctgg-aggcacaaatccagctt-cactg-agccacaacagatt|gtacgt
+       Cape golden mole  ttcagg|gactcct-gaa--tatatttcaaaa-----caggttcagccaagcc---aaagcactcgg---tc-tcctgg-aaccacgaatccagctt-cactgaagccaccacacact|gtatgt
+                 Tenrec  ttcaag|gactcccggga--tatatttcaaaattaaccagtttcagccaagcc---gaagccttctg---tcttcctca-cagaacagatccagctt-agctgaagccaccgcagatt|gtaagt
+               Aardvark  ttcaag|gacccct-gaa--tatatttcaaaactgaactatttcagccaaacc---aaagcatcctc---tcttcctgg-aggcacaaatccagctt-cactg-atacacgacatatt|gtaggt
+ Lesser Egyptian jerboa  ============================================================================================agttt-aggaa-ggccacaacaatcct|---gt

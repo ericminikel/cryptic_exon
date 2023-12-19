@@ -1,0 +1,7 @@
+order	sequence	frame	description
+1	UUAAAGAUGAU	+2	proposed uORF not included in transcript
+2	CAGUCAAUGAG	0	proposed uORF not included in transcript
+3	GGAGCGAUGGC	+2	proposed uORF not included in transcript
+4	CAACUGAUGCA	+1	proposed uORF not included in transcript
+5	UCAGCCAUGUC	+1	novel uORF
+6	GUCAUUAUGGC	0	canonical ORF
